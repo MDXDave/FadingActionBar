@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="BaseTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimaryDark">#990000</item>
+        <item name="colorAccent">#0118CA</item>
+    </style>
+
+    <style name="BaseTheme.App">
+
+    </style>
+
+</resources>
