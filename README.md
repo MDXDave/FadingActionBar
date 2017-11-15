@@ -7,4 +7,4 @@ Dieses Projekt ist ein Beispiel-Projekt zur einfachen Implementierung einer *Fad
 
 
 
-Weitere Informationen [in meinem Blog](https://mdxdave.de/android/android-fading-actionbar).
+Weitere Informationen [in meinem Blog](https://mdxdave.de/android/fading-actionbar).
